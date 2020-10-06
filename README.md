@@ -11,13 +11,13 @@
 <body>
     <div class="main">
         <a class="main__link" href="https://vk.com/dbrkhmr">
-            <span class="letter">В</span>
-            <span class="letter">С</span>
-            <span class="letter">Т</span>
-            <span class="letter">А</span>
-            <span class="letter">В</span>
-            <span class="letter">А</span>
-            <span class="letter">Й</span>
+            <span class="letter">W</span>
+            <span class="letter">A</span>
+            <span class="letter">K</span>
+            <span class="letter">E</span>
+            <span class="letter">U</span>
+            <span class="letter">P</span>
+            
         </a><br>
         <button class="play letter" type="button">P O W</button>
     </div>
