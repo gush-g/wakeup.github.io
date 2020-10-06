@@ -2,6 +2,7 @@
  const body = document.querySelector('body')
  let audio = new Audio("music.mp3");
  const play = body.querySelector('.play');
+ const volume = document.querySelector('.volume');
 
  let ms = 300;
 for (let i = 0; i < letters.length; i++) {
@@ -20,8 +21,9 @@ play.addEventListener('click', () => {
         audio.pause();
         play.classList.remove('in__playing');
     } else {
-        audio.play()
-        play.classList.add('in__playing')
+        audio.play();
+        play.classList.add('in__playing');
+        volume.style.opacity = '1';
     }
     
 });
