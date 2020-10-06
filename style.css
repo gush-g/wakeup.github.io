@@ -2,6 +2,7 @@ body {
     background-image: url("tekstury-chernyy-kvadraty-fon.jpg"); 
     margin: 0;
     font-family: 'Indie Flower', cursive;
+    height: 100%;
 }
 
 .main {
