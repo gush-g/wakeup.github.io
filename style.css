@@ -42,3 +42,7 @@ body {
 .play:hover {
     cursor: pointer;
 }
+
+.volume {
+    opacity: 0.2;
+}
